@@ -1,0 +1,44 @@
+[
+    {
+        "name" : "praveen Talluri",
+        "age" : 31,
+        "sex" : "male",
+        "Company" : "creospan",
+        "network" : "java"
+    },
+    {
+        "name" : "triveni",
+        "age" : 28,
+        "sex" : "female",
+        "company" : "House",
+        "network" : "cleaning"
+    },
+    {
+        "name" : "shaunik",
+        "age" : 2,
+        "sex" : "male",
+        "company" : "palying",
+        "network" : "entertaining"
+    },
+    {
+        "name" : "sameera",
+        "age" : 30,
+        "sex" : "female",
+        "company" : "Wipro",
+        "network" : "talend"
+    },
+    {
+        "name" : "parimala",
+        "age" : 27,
+        "sex" : "female",
+        "company" : "Wipro",
+        "network" : "talend"
+    },
+    {
+        "name" : "nagarjuna",
+        "age" : 31,
+        "sex" : "male",
+        "company" : "wallgreens",
+        "network" : "talend"
+    }
+]
