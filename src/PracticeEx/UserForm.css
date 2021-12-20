@@ -1,0 +1,25 @@
+.user-forms {
+	text-align: left;
+	border-radius: 7px;
+	width: 35rem;
+	background-color: white;
+	padding: 1rem;
+	margin: 1rem auto;
+}
+.user-form label {
+	font-weight: bold;
+	margin-bottom: 0.5rem;
+	display: block;
+	text-align: left;
+}
+.user-form input {
+	font: inherit;
+	padding: 0.5rem;
+	border-radius: 6px;
+	border: 1px solid #ccc;
+	width: 30rem;
+	max-width: 100%;
+}
+.user-form__actions {
+	text-align: left;
+}

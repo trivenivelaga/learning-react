@@ -1,0 +1,16 @@
+.users {
+	border-radius: 7px;
+	width: 37rem;
+	background-color: white;
+	padding: 0rem;
+	margin: 0.25rem auto;
+}
+.users ul {
+	list-style: none;
+	padding: 1rem;
+}
+.users li {
+	border: 1px solid #ccc;
+	margin: 0.5rem 0;
+	padding: 0.5rem;
+}
